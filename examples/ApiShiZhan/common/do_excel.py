@@ -54,6 +54,7 @@ if __name__ == '__main__':
         print(case.case_id)
         print(case.url)
 	print("haha")
+	print("公司2018-12-27")
 
 
 
